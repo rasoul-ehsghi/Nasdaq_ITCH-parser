@@ -227,7 +227,7 @@ python -m pytest tests/ --cov=itch_parser
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Rasoul Esghi**
 
