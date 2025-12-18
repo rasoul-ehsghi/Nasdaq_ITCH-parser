@@ -233,6 +233,6 @@ python -m pytest tests/ --cov=itch_parser
 
 ✉️[Github](https://github.com/rasoul-ehsghi)
 
-💼[LinkedTn](https://www.linkedin.com/in/rasoul-eshghi)
+💼[LinkedIn](https://www.linkedin.com/in/rasoul-eshghi)
 
 📧[Gmail](cfte.mehr@gmail.com)
