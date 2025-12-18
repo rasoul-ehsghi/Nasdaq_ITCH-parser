@@ -33,7 +33,7 @@ A high-performance Python package for parsing **NASDAQ ITCH 5.0 binary market da
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nasdaq-itch-parser.git
+git clone https://github.com/rasoul-eshghi/nasdaq-itch-parser.git
 cd nasdaq-itch-parser
 
 # Install dependencies
